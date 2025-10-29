@@ -1,0 +1,5 @@
+{
+  "name": "ImpactVL Circuit Simulator",
+  "description": "A modern, web-based digital logic circuit simulator inspired by the ImpactVL Java application. Design, build, and simulate complex circuits on an interactive grid with a variety of components.",
+  "requestFramePermissions": []
+}
