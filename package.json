@@ -9,13 +9,16 @@
     "publish": "npm publish --access public"
   },
   "dependencies": {
-    "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
   },
   "devDependencies": {
     "@types/node": "22.14.0",
     "@vitejs/plugin-react": "5.2.0",
     "typescript": "5.8.2",
-    "vite": "7.3.1"
+    "vite": "7.3.6"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
   }
 }
